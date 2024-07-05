@@ -1,4 +1,4 @@
-# Kanban task management web app
+# Task management web app
 
 Streamline your tasks with our task manager. Stay organized, prioritize
 your to-do list, and track progress all in one place. Boost productivity
@@ -52,8 +52,8 @@ Bonus:
 
 ### Links
 
-- Live Site URL: [link]([https://kanban-task-management-app.netlify.app/](https://nextjs-task-management-app.vercel.app/))
-- Design URL: [link](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB)
+- Live Site URL: [link]([https://task-manager-plan.vercel.app/](https://task-manager-plan.vercel.app/))
+- Design URL: [link](https://www.frontendmentor.io/challenges/)
 
 ### Used technologies
 

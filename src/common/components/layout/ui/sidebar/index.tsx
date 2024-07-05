@@ -27,7 +27,8 @@ export function Sidebar({ expanded, isDesktop }: IProps) {
       <SideBarWrapper>
         <Wrapper $expanded={bool2string(expanded)}>
           <div>
-            <Logo />
+            {/* <Logo /> */}
+            <div className="text-white text-xl font-bold my-3 ml-4">Task Manager</div>
             <TableList />
           </div>
           <div className="mb-16 pr-2">
