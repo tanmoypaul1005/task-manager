@@ -51,7 +51,7 @@ Bonus:
 ![Screenshot](./screenshots/Screenshot_3.png)
 
 ### Links
-- Live Site URL: [link](task-manager-plan.vercel.app)
+- Live Site URL: [link](https://task-manager-plan.vercel.app/)
 
 ### Used technologies
 
